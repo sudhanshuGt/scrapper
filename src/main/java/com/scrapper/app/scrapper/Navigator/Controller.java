@@ -8,6 +8,6 @@ public class Controller {
     
     @GetMapping("/")
     public String helloSpring(){
-        return "hello spring";
+        return "hello spring..repo get private mode";
     }
 }
